@@ -1,6 +1,6 @@
 Projeto em desenvolvimento.
 Objetivo: desenvolver noções de processamento de imagem, começando com a compressão de imagem seguindo padrão JPEG.
-Código desenvolvido em Python no VSCode integrado ao Copilot (IA Agent: Claude Haiku 4.5).
+Código desenvolvido em Python/Notebook Jupyter no VSCode integrado ao Copilot (IA Agent: Claude Haiku 4.5).
 
 A imagem comprimida será a de um mandril (MANDRILL.BMP), bem conhecida e amplamente utilizada em testes que envolvam processamento de imagem, dado suas características (cores, detalhes etc).
 
